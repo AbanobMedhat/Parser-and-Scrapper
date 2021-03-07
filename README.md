@@ -1,5 +1,5 @@
 # Parser and Scrapper
-Project for iti41 python course.
+Project for ITI41 Python Course.
 ![Kilwa](https://www10.0zz0.com/2021/03/08/00/910414352.jpg)
 ## Requirements
 - **Python3**
